@@ -1,2 +1,2 @@
 # MNIST-classsification
-Instruction: python main.py
+To run the program: `python main.py`
