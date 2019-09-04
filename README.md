@@ -1,2 +1,2 @@
 # MNIST-classsification
-Instructin: python main.py
+Instruction: python main.py
